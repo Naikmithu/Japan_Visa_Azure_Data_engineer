@@ -1,0 +1,1 @@
+scp -i spark-cluster_key.pem -r ./src/* azureuser@20.162.7.183:/home/azureuser
